@@ -4,6 +4,8 @@ body {
   font-family: sans-serif;
 }
 
-img {
-  max-width: 100%;
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
